@@ -1,0 +1,1 @@
+console.log("Yakhi 9r3adj yakhi 90lna dint open it")
